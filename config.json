@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "yalxss",
+    "email": "111344379+yalxss@users.noreply.github.com",
+    "timezone": "+0300"
+  },
+  "intensity_weights": {
+    "0": 0,
+    "1": 2,
+    "2": 5,
+    "3": 10,
+    "4": 20
+  },
+  "default_year": 2026
+}
